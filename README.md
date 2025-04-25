@@ -12,3 +12,8 @@ It worked! I had to use
 ```git remote set-url origin https://github.com/NickMitic/test-ssh```
 to set up HTTPS protocol
 ## now I'll switch back to SSH
+this also worked, using
+```git remote set-url origin git@github.com:NickMitic/test-ssh```
+## NOTE:
+You can always check using
+```git remote -v```
